@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
-<h3 align="center">A machine learning engineer/ Comp-sci student</h3>
+<h3 align="center">A machine learning engineer/ Comp-sci student who loves to learn by implementing small projects</h3>
 
 - 🔭 I’m currently working on **multimodal AIs**
 
